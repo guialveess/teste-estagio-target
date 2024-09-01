@@ -25,7 +25,7 @@ Este repositório contém soluções para desafios de lógica e programação pr
    ```bash
    git clone <URL-do-repositório>
 
-2. **Navegue até o teste que quer executar primeiro.**:
+2. **Navegue até o teste que quer executar primeiro**:
    ```bash
    cd letterverification/
 
