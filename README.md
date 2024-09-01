@@ -24,3 +24,7 @@ Este repositório contém soluções para desafios de lógica e programação pr
 1. **Clone o repositório**:
    ```bash
    git clone <URL-do-repositório>
+
+2. **Execute os arquivos .js separadamente. Ex:**:
+   ```bash
+   node verificaLetraA.js
