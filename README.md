@@ -36,3 +36,6 @@ Pensei em usar TypeScript porque j√° estou familiarizado com a linguagem, sua l√
 3. **Execute os arquivos .js separadamente. Ex**:
    ```bash
    node verificaLetraA.js
+   
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
