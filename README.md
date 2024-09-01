@@ -25,6 +25,6 @@ Este repositório contém soluções para desafios de lógica e programação pr
    ```bash
    git clone <URL-do-repositório>
 
-2. **Execute os arquivos .js separadamente. Ex:**:
+2. **Execute os arquivos .js separadamente. Ex**:
    ```bash
    node verificaLetraA.js
