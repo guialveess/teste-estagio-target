@@ -19,6 +19,10 @@ Este repositório contém soluções para desafios de lógica e programação pr
 - **TypeScript**: Linguagem de programação para desenvolvimento dos scripts.
 - **Node.js**: Ambiente de execução para a execução dos scripts TypeScript.
 
+## Porque de Utilizar o TypeScript?
+
+Pensei em usar TypeScript porque já estou familiarizado com a linguagem, sua lógica e a indentação. Depois, compilei o código para JavaScript puro e executei.
+
 ## Como Executar
 
 1. **Clone o repositório**:
